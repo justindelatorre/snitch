@@ -2,17 +2,17 @@
 
 Someone else suffers for your incompetence. Just like in real life!
 
-# Background
+## Background
 
 I'm building a product for myself. I've only really been able to develop habits by adding external accountability—sticks, rather than carrots—so I'm building a lightweight web application to simulate that process.
 
-# Project Goals
+## Project Goals
 
 * Solidify programming, problem-solving, and web development lessons learned from Launch School's Programming and Backend [curriculum](https://launchschool.com/courses)
 * Learn how to use external APIs
 * (Stretch) Learn how to implement a relatively secure user registration, login, and authentication process
 
-# (Projected) User Experience
+## (Projected) User Experience
 
 1. User indicates a habit they would like to develop.
 2. User indicates at what cadence that habit should be performed, e.g. daily, on certain days, weekends.
@@ -25,21 +25,21 @@ I'm building a product for myself. I've only really been able to develop habits 
 9. If user answers yes, no text is sent to accountability partner. If user answers no, the application "snitches" on the user to their partner.
 10. Process repeats until the user achieves the habit goal, cancels the goal, or the friendship with the partner terminates. (maybe because of the app, lol)
 
-# Architecture
+## Architecture
 
-## Major Elements
+### Major Elements
 
 * GUI
 * Application Server
 * Relational Database
 
-## Technologies Used
+### Technologies Used
 
 * Ruby, along with other related frameworks and tools, like Sinatra, Puma, etc.
 * [PostgreSQL](https://www.postgresql.org/)
 * [Heroku](https://www.heroku.com/)
 * [Twilio API](https://www.twilio.com/docs/usage/api)
 
-# Updates
+## Updates
 
 * 2020-09-13: README created.
