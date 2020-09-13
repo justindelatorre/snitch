@@ -8,7 +8,7 @@ I'm building a product for myself. I've only really been able to develop habits 
 
 # Project Goals
 
-* Solidify programming, problem-solving, and web development lessons learned from Launch School's Programming and Backend (curriculum)[https://launchschool.com/courses]
+* Solidify programming, problem-solving, and web development lessons learned from Launch School's Programming and Backend [curriculum](https://launchschool.com/courses)
 * Learn how to use external APIs
 * (Stretch) Learn how to implement a relatively secure user registration, login, and authentication process
 
